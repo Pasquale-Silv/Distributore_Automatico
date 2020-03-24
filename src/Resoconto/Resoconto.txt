@@ -1,0 +1,6 @@
+Resoconto vendite:
+Sono stati venduti 2 prodotti, per un incasso pari a: 2.30 euro.
+
+Dettaglio:
+- 19/07/2019  04:43	AcquaM, prezzo: 0,50 centesimi.
+- 19/07/2019  04:44	Tramezzino, prezzo: 1,80 euro.
